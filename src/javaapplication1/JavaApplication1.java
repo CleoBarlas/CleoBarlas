@@ -6,7 +6,10 @@ import java.util.Scanner;
  *
  * @author klengs
  */
-/* added comment for fetch+merge
+/* added comment for fetch+merge*/
+/*added comment for pull*/
+
+
 public class JavaApplication1 {
 
     /**
